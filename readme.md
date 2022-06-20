@@ -5,4 +5,4 @@ Desde que comencé mi viaje como diseñador y desarrollador de software, he real
 https://josuefischeroficial.github.io/
 
 ## Versión Estable
-> Versión 1.0 - Josue Fischer®
+> Josue Fischer® - Versión 1.1

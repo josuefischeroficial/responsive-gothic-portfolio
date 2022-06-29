@@ -1,5 +1,5 @@
 # Josue Fischer® - All Rights Reserved
-🍭 Responsive web site portafolio - ghotic edition - Ready to deploy.
+🍭 Responsive website portafolio - ghotic edition - ready to deploy.
 
 ✨ You are free to edit and use it.
 

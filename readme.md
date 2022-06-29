@@ -1,8 +1,12 @@
-# Josue Fischer® - Todos los derechos reservados
-Desde que comencé mi viaje como diseñador y desarrollador de software, he realizado trabajos remotos para emprendimientos, asesorado para nuevas empresas y colaborado con personas talentosas para crear productos digitales para uso comercial y de consumo. Soy naturalmente curioso y trabajo perpetuamente para mejorar mis habilidades, un problema a la vez.
+# Josue Fischer® - All Rights Reserved
+🍭 Responsive web site portafolio - ghotic edition - Ready to deploy.
 
-## ➜ Sitio web oficial de Josue Fischer®
+✨ You are free to edit and use it.
+
+❤️ ¡Don´t forget to follow me an like this!
+
+## ➜ Josue Fischer Oficial Web Site®
 https://josuefischeroficial.github.io/
 
-## Versión Estable
-> Josue Fischer® - Versión 1.6.2
+## Stable Version
+> Josue Fischer® - Version 1.6.3

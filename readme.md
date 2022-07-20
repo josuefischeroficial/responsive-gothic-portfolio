@@ -18,7 +18,7 @@
   
 ### Demo Screenshot
 
-![Portfolio Desktop Demo](./images\universe-website.png "Desktop Demo")
+![Portfolio Desktop Demo](./images/universe-website.png "Desktop Demo")
 
 ### Prerequisites
 
